@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(90deg, blue, white);
+}
+
+.conteudo {
+    text-align: center;
+    color: white;
+    font-family: Georgia;
+    padding-top: 30px;
+}
